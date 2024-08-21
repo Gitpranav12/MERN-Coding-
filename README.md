@@ -1,5 +1,3 @@
-# MERN-Coding-
-
 # Sales Analyzer
 
 Sales Analyzer is a comprehensive web application that provides insights into product sales transactions. It leverages the MERN Stack (MongoDB, Express.js, React, Node.js) to deliver robust and user-friendly functionality for analyzing sales data. This application is designed to help businesses make informed decisions by offering detailed statistics, searchable transaction records, and visual data representations.
@@ -136,4 +134,4 @@ This project is licensed under the MIT License.
 
 ---
 
-For further information or assistance, please get in touch with the developer at [vikashjjp728@gmail.com].
+
