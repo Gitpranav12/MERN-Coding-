@@ -16,7 +16,7 @@ Sales Analyzer is a comprehensive web application that provides insights into pr
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/vikashkrdeveloper/sales-analyzer.git
+    git clone https://github.com/Gitpranav12/MERN-Coding-
     ```
 
 2. **Navigate to the Project Directory**
@@ -126,12 +126,3 @@ Generate
 - **Node.js**: JavaScript runtime for server-side programming.
 - **APEXCHARTS**: React package for giving a chart component.
 - **NextUI**: NextUi package for giving a frontend component.
-
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-For further information or assistance, please get in touch with the developer at [vikashjjp728@gmail.com].
